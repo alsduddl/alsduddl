@@ -15,5 +15,3 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 </div>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlalsdud514@gmail.com&layout=compact)
